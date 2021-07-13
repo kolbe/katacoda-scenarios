@@ -1,5 +1,3 @@
 Start TiDB Cluster
 
-```
-tiup cluster start test
-```
+`tiup cluster start test`{{execute}}

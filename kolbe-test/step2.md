@@ -1,5 +1,3 @@
 Install TiUP Cluster component:
 
-```
-tiup install cluster
-```
+`tiup install cluster`{{execute}}
