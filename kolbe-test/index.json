@@ -4,6 +4,11 @@
   "difficulty": "Beginner",
   "time": "60 minutes",
   "details": {
+      "assets": {
+	  "client": [
+	      {"file": "setup.sh", "target": "/usr/local/bin/", "chmod": "+x"}
+	  ]
+      },
     "steps": [
       {
         "title": "Step 1",
@@ -27,7 +32,8 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "background": "/usr/local/bin/setup.sh"
     },
     "finish": {
       "text": "finish.md"
