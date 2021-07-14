@@ -33,9 +33,8 @@
       }
     ],
     "intro": {
-      "text": "intro.md",
-      "background": "background.sh",
-      "foregroud": "foreground.sh"
+      "text": "intro.md"
+      ,"background": "background.sh"
     },
     "finish": {
       "text": "finish.md"
