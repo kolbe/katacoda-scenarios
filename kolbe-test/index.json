@@ -6,8 +6,8 @@
   "details": {
       "assets": {
 	  "host01": [
-	      {"file": "foreground.sh", "target": "/usr/local/bin/", "chmod": "+x"},
-	      {"file": "background.sh", "target": "/usr/local/bin/", "chmod": "+x"}
+	      {"file": "foreground.sh", "target": "/usr/local/bin/", "chmod": "+x"}
+	      ,{"file": "background.sh", "target": "/usr/local/bin/", "chmod": "+x"}
 	  ]
       },
     "steps": [
