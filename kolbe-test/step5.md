@@ -1,3 +1,4 @@
-Start TiDB Cluster
 
-`tiup cluster start test`{{execute}}
+Connect to TiDB
+
+`mysql`{{execute}}

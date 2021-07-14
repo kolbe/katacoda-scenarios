@@ -1,5 +1,4 @@
-Install TiUP:
 
-`curl --proto '=https' --tlsv1.2 -sSf https://tiup-mirrors.pingcap.com/install.sh | sh`{{execute}}
+Install TiUP Cluster component:
 
-`. ~/.bashrc`{{execute}}
+`tiup install cluster`{{execute}}

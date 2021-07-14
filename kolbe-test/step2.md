@@ -1,3 +1,4 @@
-Install TiUP Cluster component:
 
-`tiup install cluster`{{execute}}
+Generate topology template
+
+`tiup cluster template --local | tee topology.yaml`{{execute}}
